@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<section>
+	<DataItemFolders FullPath="C:\\Developer" Name="Developer"/>
+	<DataItemFolders FullPath="C:\\TreeSize" Name="TreeSize"/>
+	<DataItemFolders FullPath="C:\\FoxmindED" Name="FoxmindED"/>
+	<DataItemFiles FullPath="C:\\1.xml" Name="1.xml"/>
+	<DataItemFiles FullPath="C:\\2.txt" Name="2.txt"/>
+	<DataItemFiles FullPath="C:\\3.cs" Name="3.cs"/>
+</section>
+
